@@ -21,8 +21,8 @@ Run the application in intellij or suitable IDE or command line
 
 There are two end-points available as follows:
 
-{input}/10000/is-it-perfect - Check if a given number in "input" is a perfect number, example localhost:8080/10000/is-it-perfect
-/is-it-perfect?start={start}&end={end} - Gets all perfect numbers with in the range, example localhost:8080/is-it-perfect?start=10&end=1000
+* {input}/10000/is-it-perfect - Check if a given number in "input" is a perfect number, example localhost:8080/10000/is-it-perfect
+* /is-it-perfect?start={start}&end={end} - Gets all perfect numbers with in the range, example localhost:8080/is-it-perfect?start=10&end=1000
 Postman can be used to test
 
 # Improvements 

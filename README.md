@@ -7,14 +7,14 @@ This contains two REST APIs to serve the following operations:
 1. Check if a given number is perfect
 2. Find all perfect numbers between a range (start-end)
 
-**Tools used **
+# Tools used 
 
-Java 11.0.14
-intellij
-Postman
+* Java 11.0.14
+* Intellij
+* Postman
 
 
-**Execution**
+# Execution
 
 Run the application in intellij or suitable IDE or command line
 
@@ -25,7 +25,7 @@ There are two end-points available as follows:
 /is-it-perfect?start={start}&end={end} - Gets all perfect numbers with in the range, example localhost:8080/is-it-perfect?start=10&end=1000
 Postman can be used to test
 
-**Improvements **
+# Improvements 
 
 There is scope of following improvments in program
 1. Include error handling
